@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/jimmywu/Documents/GitHub/VRSketch/Dshot-ESPIDF/dshot_esc/build/CMakeFiles/bootloader"
+		},
+		{
+			"file" : "/Users/jimmywu/Documents/GitHub/VRSketch/Dshot-ESPIDF/dshot_esc/build/CMakeFiles/bootloader.rule"
+		},
+		{
+			"file" : "/Users/jimmywu/Documents/GitHub/VRSketch/Dshot-ESPIDF/dshot_esc/build/CMakeFiles/bootloader-complete.rule"
+		},
+		{
+			"file" : "/Users/jimmywu/Documents/GitHub/VRSketch/Dshot-ESPIDF/dshot_esc/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
+		},
+		{
+			"file" : "/Users/jimmywu/Documents/GitHub/VRSketch/Dshot-ESPIDF/dshot_esc/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
+		},
+		{
+			"file" : "/Users/jimmywu/Documents/GitHub/VRSketch/Dshot-ESPIDF/dshot_esc/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
+		},
+		{
+			"file" : "/Users/jimmywu/Documents/GitHub/VRSketch/Dshot-ESPIDF/dshot_esc/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
+		},
+		{
+			"file" : "/Users/jimmywu/Documents/GitHub/VRSketch/Dshot-ESPIDF/dshot_esc/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
+		},
+		{
+			"file" : "/Users/jimmywu/Documents/GitHub/VRSketch/Dshot-ESPIDF/dshot_esc/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
+		},
+		{
+			"file" : "/Users/jimmywu/Documents/GitHub/VRSketch/Dshot-ESPIDF/dshot_esc/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"bootloader"
+		],
+		"name" : "bootloader"
+	}
+}
